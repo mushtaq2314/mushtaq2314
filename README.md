@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working on GenAI, AI
+Currently Working on GenAI, Deep Learning
 
 
 ## 🌐 Socials:
